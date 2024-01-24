@@ -5,12 +5,7 @@ accountCity = "Banaras"
 
 // accountId = 2;
 
-accountEmail = dk@gmail.com;
-accountPassword = "7784943";
-accountCity = "delhi";
-console.log(accountId);
-
-/*
-
-*/
+// let accountPassword = "7784943";
+/* accountCity = "delhi";
+console.log(accountId);*/
 console.table([accountId,accountEmail,accountPassword,accountCity]);
