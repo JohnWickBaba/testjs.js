@@ -13,3 +13,5 @@ beacuse of issue in block scope and functional scope
 /* accountCity = "delhi";
 console.log(accountId);*/
 console.table([accountId,accountEmail,accountPassword,accountCity]);
+console.table([accountId,accountEmail,accountPassword,accountCity]);
+
